@@ -1,4 +1,4 @@
-# Blog da Inpacta
+# Desafio Dev - Blog
 
 Este git é para depositar o codigo do blog do processo seletivo da empressa junior, Inpacta
 
