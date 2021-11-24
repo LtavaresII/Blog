@@ -1,0 +1,179 @@
+* {
+    box-sizing: border-box;
+    
+  }
+
+body {
+    font-family:"Roboto",sans-serif;
+    padding: 20px;
+    background-color:white;
+}
+
+/* Titulos das Paginas*/
+.Titulo{
+    font-family:"Roboto",sans-serif;
+    font-size: 30px;
+    width: 100%;
+    padding: 30px;
+    text-align: center;
+
+}
+
+/*Pagina de Perfil*/
+.Foto{
+    float: left;
+}
+
+.FotoP{
+    margin: 4px;
+    padding: 2px;
+}
+
+#Foto_Perfil{
+    background: #ddd;
+    width: 230px;
+    height: 230px;
+    margin: 30px;
+    padding: 10px;
+}
+
+.Perfil{
+    background-color: white;
+    font-size: 20px;
+    font-family:"Roboto",sans-serif;
+    margin: 7px;
+    padding: 5px;
+    float: left;
+    width: 75%;
+}
+
+.Caixa_de_Texto{
+    font-size: 16px;
+    padding: 5px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+#Informações{
+    width: 895px;
+    margin: 30px;
+    float: left;
+}
+
+/*Pagina de Posts*/
+.Posts{
+    background-color: white;
+    font-size: 20px;
+    font-family:"Roboto",sans-serif;
+    float: left;
+    width: 75%;
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/*Texto do Post*/
+.PostsT{
+    font-size: 16px;
+    font-family:"Roboto",sans-serif;
+}
+
+#Texto_do_Post{
+    width: 1000px;
+}
+
+/*Coluna Direita*/
+.Cartão{
+    background-color: white;
+    padding: 20px;
+    margin-top: 5px;
+}
+
+.fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+  }
+
+.ColunaDireita{
+    font-family:"Roboto",sans-serif;
+    background-color: white;
+    font-size: 16px;
+    width: 22%;
+    padding-left: 20px;
+    float: right;
+}
+
+/*Dimenção da Postagem*/
+#Postagem{
+    width: 65%;
+    height: 100%;
+    margin: 30px;
+}
+
+/*Navegação das Paginas*/
+
+.NavPe{
+    font-size: 20px;
+    align-self: left;
+}
+
+.NavP{
+    font-size: 20px;
+    align-self: left;
+}
+
+.NavI{
+    font-size: 20px;
+    align-self: left;
+}
+
+#LinkI{
+    height: 190px;
+    width: 300px;
+    align-self: left;
+}
+
+#LinkPe{
+    height: 190px;
+    width: 300px;
+    align-self: left;
+}
+
+#LinkP{
+    height: 190px;
+    width: 300px;
+    align-self: left;
+}
+
+/*Rodapé das Paginas*/
+
+.Rodapé{
+    font-family:"Roboto",sans-serif;
+    font-size: 16px;
+    background: #ddd;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.RodapéD{
+    margin: 10px;
+}
+
+.RodapéF{
+    margin: 10px;
+}
+
+.RodapéT{
+    margin: 10px;
+}
+
+.RodapéE{
+    margin: 10px;
+}
+
+#Contatos{
+    clear: both;
+}
